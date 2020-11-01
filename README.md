@@ -1,11 +1,11 @@
 
 # Wisconsin Unofficial Election Results Collection, Nov 2020
 
-[OpenElections](openelections.net) is collecting unofficial election night results for some swing states, Wisconsin included. 
+[OpenElections](http://openelections.net/news/2020/10/31/unofficial-results.html) is collecting unofficial election night results for some swing states, Wisconsin included. 
 
 As a first step, here's all 72 Wisconsin counties and where I think they'll post election results on November 3rd. The first column ("Results Site") is the webpage that I think will link to the results, the second column is where the actual results may be located. As this is being created before the election that column is blank for many counties, but some counties have put out placeholder documents for the results, which is what I've linked to in the 'Direct Results Column'. However, I expect that many counties will change the link as Tuesday night goes on (i.e. they'll change it from "election_results.pdf" to "election_results_v2.pdf" and so on) so the first "Results Site" column is more stable and useful long-term, though almost always won't be the directly downloadable datafiles. 
 
-(Scroll to the left to see all the columns, this table is very wide)
+(Scroll over to see all the columns, this table is very wide)
 
 
 |County     |Results Site                                                                                                                                  |Direct Results Data                                                                                                                                                          |Local Data Copy                 |
