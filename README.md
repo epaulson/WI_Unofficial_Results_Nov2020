@@ -5,6 +5,9 @@
 
 As a first step, here's all 72 Wisconsin counties and where I think they'll post election results on November 3rd. The first column ("Results Site") is the webpage that I think will link to the results, the second column is where the actual results may be located. As this is being created before the election that column is blank for many counties, but some counties have put out placeholder documents for the results, which is what I've linked to in the 'Direct Results Column'. However, I expect that many counties will change the link as Tuesday night goes on (i.e. they'll change it from "election_results.pdf" to "election_results_v2.pdf" and so on) so the first "Results Site" column is more stable and useful long-term, though almost always won't be the directly downloadable datafiles. 
 
+(Scroll to the left to see all the columns, this table is very wide)
+
+
 |County     |Results Site                                                                                                                                  |Direct Results Data                                                                                                                                                          |Local Data Copy                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 |ADAMS      |https://www.co.adams.wi.us/government/elections                                                                                               |https://drive.google.com/drive/folders/1Sjo4pw4RXporOaaU7FYlBsiZXZ9G1nXG                                                                                                     |[ADAMS](2020/ADAMS/)            |
